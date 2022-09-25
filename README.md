@@ -89,7 +89,7 @@ Dependencies:
 
 ---
 <details>
-<sumarry>## MacOS </summary>
+<sumarry>MacOS</summary>
 <br>
 Dependencies:
 1. [git](https://git-scm.com/downloads)
