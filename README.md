@@ -24,6 +24,14 @@ Dependencies:
 2. [Download]()
 2. just run `install.bat`
 
+### plugins/themes
+1. Download script
+2. [Download]()
+3. run `pt-install.bat`
+### uninstall
+1. Download script
+2. [Download]()
+3. run `uninstall.bat`
 ---
 ## Linux
 Dependencies:
