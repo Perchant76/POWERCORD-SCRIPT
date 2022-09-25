@@ -1,3 +1,4 @@
+#!/bin/bash
 echo git clone https://github.com/powercord-org/powercord
 echo cd powercord
 echo npm i
