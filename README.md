@@ -55,5 +55,3 @@ Dependencies:
 1. Download script
 2. [SCRIPT]()
 3. run `install-mac.sh`
-
-
