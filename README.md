@@ -100,7 +100,6 @@ Dependencies:
 1. Download script
 2. [Download]()
 3. run `install-mac.sh`
-<<<<<<< HEAD
 ### plugins/themes install:
 1. download plugins
 ### uninstall: 
@@ -109,7 +108,3 @@ Dependencies:
 3. run `uninstall-mac.sh`
 4. done!
 </details>
-
-
-=======
->>>>>>> a443fee67b48e1831f16494777172368aee79dbe
