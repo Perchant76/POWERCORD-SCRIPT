@@ -24,7 +24,7 @@ Dependencies:
 2. [Download](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/win/install-win.bat)
 2. just run `install.bat`
 
-### plugins/themes
+### Plugins/themes
 1. Download script
 2. [Download Plugins](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/win/install-plugins.bat)
 3. [Download Themes](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/win/install-themes.bat)
@@ -45,12 +45,12 @@ Dependencies:
 1. Download script
 2. [Download](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/mac/install-mac.sh)
 3. run `install-mac.sh`
-### plugins/themes install:
+### Pugins/Themes install:
 1. download script
 2. [Download Plugins](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/mac/install-plugins.sh)
 3. [Download Themes](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/mac/install-themes.sh)
 4. run `install-plugins.sh` or `install-themes.bat`
-### uninstall: 
+### Uninstall: 
 1. download uninstall script
 2. [Download](https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/mac/uninstall-linux-mac.sh)
 3. run `uninstall-linux-mac.sh`
@@ -79,14 +79,14 @@ Dependencies:
 `chmod +x install-ubuntu.sh`
 
 `./install-ubuntu.sh`
-### plugins/themes install:
+### Plugins/Themes install:
 
 `git clone https://github.com/Perchant76/POWERCORD-SCRIPT`
 
 `chmod +x pt-install.sh`
 
 `./pt-install.sh`
-### uninstall: 
+### Uninstall: 
 
 `git clone https://github.com/Perchant76/POWERCORD-SCRIPT`
 
