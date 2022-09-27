@@ -1,5 +1,5 @@
 @echo off
-cd /C %UserProfile%
+cd %UserProfile%
 git clone https://github.com/powercord-org/powercord
 cd "powercord"
 npm i

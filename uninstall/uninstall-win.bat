@@ -1,5 +1,5 @@
 @echo off
-cd /C %UserProfile%
+cd %UserProfile%
 cd %HOMEPATH%\powercord
 npm run unplug
 cd %HOMEPATH%
