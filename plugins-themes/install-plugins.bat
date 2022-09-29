@@ -1,4 +1,3 @@
-@echo off
 set /p input= Enter link to plugin:
 cd %UserProfile%
 cd powercord\src\Powercord\plugins && git clone %input%
