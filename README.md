@@ -62,9 +62,9 @@ Dependencies:
 ### ARCH Installation:
 1. open terminal and run
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/lnx/install-arch.sh`
 
-`cd POWERCORD-SCRIPT`
+`cd install-arch`
 
 `chmod +x install-arch.sh`
 
@@ -72,24 +72,24 @@ Dependencies:
 ### UBUNTU Installation:
 1. open terminal and run:
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/lnx/install-ubuntu.sh`
 
-`cd POWERCORD-SCRIPT`
+`cd install-ubuntu`
 
 `chmod +x install-ubuntu.sh`
 
 `./install-ubuntu.sh`
 ### Plugins/Themes install:
 #### Plugins:
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/lnx/install-plugins.sh`
 #### Themes:
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
-`chmod +x pt-install.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/lnx/install-themes.sh`
+`chmod +x install-plugins.sh` or `chmod +x install-themes.sh `
 
-`./pt-install.sh`
+`./install-plugins.sh` or `./install-themes.sh`
 ### Uninstall: 
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/releases/download/lnx/uninstall-linux-mac.sh`
 
 `chmod +x uninstall-linux.sh`
 
