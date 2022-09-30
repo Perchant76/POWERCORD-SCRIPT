@@ -62,7 +62,7 @@ Dependencies:
 ### ARCH Installation:
 1. open terminal and run
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/install/install-arch.sh`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
 
 `cd POWERCORD-SCRIPT`
 
@@ -72,7 +72,7 @@ Dependencies:
 ### UBUNTU Installation:
 1. open terminal and run:
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
 
 `cd POWERCORD-SCRIPT`
 
@@ -80,15 +80,16 @@ Dependencies:
 
 `./install-ubuntu.sh`
 ### Plugins/Themes install:
-
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT`
-
+#### Plugins:
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
+#### Themes:
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
 `chmod +x pt-install.sh`
 
 `./pt-install.sh`
 ### Uninstall: 
 
-`git clone https://github.com/Perchant76/POWERCORD-SCRIPT`
+`git clone https://github.com/Perchant76/POWERCORD-SCRIPT/blob/main/plugins-themes/install-themes.sh`
 
 `chmod +x uninstall-linux.sh`
 
