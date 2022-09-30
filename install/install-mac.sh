@@ -1,6 +1,6 @@
 #!/bin/bash
-echo git clone https://github.com/powercord-org/powercord
-echo cd powercord
-echo npm i
-echo npm run plug
+git clone https://github.com/powercord-org/powercord
+cd powercord
+npm i
+npm run plug
 echo installation done!!!
