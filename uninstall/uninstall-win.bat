@@ -1,3 +1,4 @@
+c:
 cd %UserProfile%
 cd %HOMEPATH%\powercord
 npm run unplug
