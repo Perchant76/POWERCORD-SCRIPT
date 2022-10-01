@@ -1,3 +1,4 @@
+c:
 cd %UserProfile%
 taskkill /f /im DiscordCanary.exe
 echo installing Powercord...
