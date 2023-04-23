@@ -1,4 +1,5 @@
-# POWERCORD-SCRIPT
+# POWERCORD-SCRIPT (Doesn't work anymore)
+[Replugged Installer](https://replugged.dev/download)
 1. [Windows](https://github.com/Perchant76/POWERCORD-SCRIPT#windows)
     - [install](https://github.com/Perchant76/POWERCORD-SCRIPT#installation)
     - [plugins/themes](https://github.com/Perchant76/POWERCORD-SCRIPT#pluginsthemes)
